@@ -1,5 +1,5 @@
 
-# Contribute to  `FileCompare`  development
+# Contribute to  `Comparison Tool`  development
 
 Firstly thanks for taking the time to take an interest in my project.  
 
@@ -17,20 +17,20 @@ The guide is divided into two main pieces:
 
 For guidance on how to contribute to github projects please read [How to Contribute to Open Source]([https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/))
 
-## What is FileCompare
-File Compare is a simple C# library for comparison of files on a basic level giving out details of the differnces on a line by line basis
+## What is Comparison Tool
+The Comparison Tool is a simple C# library for comparison of folders and files on a left to right comparison the files are compared on a basic level giving out details of the differnces on a line by line basis
 
 ## Issues
 
 I want to be able to fix issues as quickly as possible so ive writen a few guidelines to follow
 
 1.  Check it doesn't already exist 
-    > *as much as i appreciate you letting me know it can cause me extra confusion and time trying to reproduce fixed bugs you can check for existing bugs [here](https://github.com/SamB1990/FileCompare/issues)*
+    > *as much as i appreciate you letting me know it can cause me extra confusion and time trying to reproduce fixed bugs you can check for existing bugs [here](https://github.com/SamB1990/ComparisonTool/issues)*
 2.  Make sure I know how to reproduce it. 
     > *As developers we all know how clients and non devlopers like to think we are mind readers **Don't be one of those people*** 
 3.  Try to be concise 
     > *The more precise detail the better but i am a **tldr;** kinda guy*
-4.  [Report](https://github.com/SamB1990/FileCompare/issues/new) that bug.
+4.  [Report](https://github.com/SamB1990/ComparisonTool/issues/new) that bug.
 
 ## Pull requests
 
